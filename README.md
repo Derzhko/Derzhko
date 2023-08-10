@@ -6,6 +6,12 @@
   </a>
 </p>
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=Derzhko&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=Derzhko&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/Derzhko/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derzhko&layout=compact"/></a>
+</p>
 
 
 <!--

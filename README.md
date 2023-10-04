@@ -2,9 +2,7 @@
   Hi there, I'm <a href="https://t.me/ADerzhko" target="_blank">Alexandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32"/></h1>
 <h3 align="center">
-  <div>
-    Java Computer Engineer         Java Backend Developer
-  </div>  
+    Java Backend Developer  
 </h3>
 <p align="center">
   <a href="https://t.me/ADerzhko">

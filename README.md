@@ -13,7 +13,17 @@
 </br>
 </br>
 </br>
-
+<h2>
+  <div>
+    👨‍💻 About me:
+  </div>
+  <ul>
+    <li>full-stack developer</li>
+    <li>developing web applications</li>
+    <li>student of the Physics Department at ITMO</li>
+  </ul>
+</h2>
+<h3>⚒️ Skills</h3>
 <p align="center">
   <div align="left">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -25,17 +35,22 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   </div>
+  <div>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  </div>
 </p>
+<br/>
 
-</br>
-</br>
-</br>
+<hr>
+
+<h3>📊 Leetcode stats</h3>
 <p align="left">
-  Leetcode stats
+  
   <div align="left">
     <img src="https://leetcode-stats-six.vercel.app/api?username=Derzhko">
   </div>
-</p>
+</p
+<hr>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Derzhko&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Derzhko&show_icons=true&count_private=true"/></a>

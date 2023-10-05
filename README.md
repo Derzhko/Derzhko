@@ -4,11 +4,16 @@
 <h3 align="center">
     Java Backend Developer  
 </h3>
+<p align="center">
+  <a href="https://t.me/ADerzhko">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 </br>
 </br>
 </br>
 </br>
-#[![GitHub Streak](https://streak-stats.demolab.com/?user=Derzhko)](https://git.io/streak-stats)
+
 <p align="center">
   <div align="left">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -21,12 +26,16 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   </div>
 </p>
-<p align="center">
-  <a href="https://t.me/ADerzhko">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</p>
 
+</br>
+</br>
+</br>
+<p align="left">
+  Leetcode stats
+  <div align="left">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=Derzhko">
+  </div>
+</p>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Derzhko&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Derzhko&show_icons=true&count_private=true"/></a>
